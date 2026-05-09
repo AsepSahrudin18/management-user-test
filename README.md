@@ -20,5 +20,4 @@ php artisan serve
 
 ## Login
 
-email: admin@test.com
-password: password
+create new user (sign up)
